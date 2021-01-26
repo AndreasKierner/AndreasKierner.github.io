@@ -3,7 +3,7 @@ layout: page
 title: Writing
 ---
 
-## wird bearbeitet
+### wird bearbeitet
 <!--
 <ul class="posts">
   {% for post in site.posts %}

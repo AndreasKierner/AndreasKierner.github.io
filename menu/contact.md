@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Kontakt
 ---
 
-# wird bearbeitet
+### wird bearbeitet
