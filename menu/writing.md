@@ -4,7 +4,7 @@ title: Writing
 ---
 
 ### wird bearbeitet
-<!--
+<!---
 <ul class="posts">
   {% for post in site.posts %}
 
@@ -25,3 +25,4 @@ title: Writing
 
   {% endfor %}
 </ul>
+-->
