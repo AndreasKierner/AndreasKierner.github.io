@@ -14,7 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/AndreasKierner'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreas-kierner'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreas-kierner-946b4b163/'}
 - {icon: 'envelope', link: 'mailto:andykierner@gmx.de'}
 - {icon: 'xing', link: 'https://www.xing.com/profile/Andreas_Kierner/'}
 - {icon: 'rss-square', link: '/feed.xml'}
