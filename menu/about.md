@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Über mich
+title: Welcome to Lagrange!
 ---
 
 Hallo mein Name ist Andreas Kierner. Zurzeit Studier ich an der Hochschule München Wirtschaftsinformatik. 
-
-### Wird bearbeitet
