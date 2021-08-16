@@ -3,7 +3,7 @@ layout: page
 title: My projects
 ---
 
-### in progess
+### in progress
 ---
 <ul class="posts">
   {% for post in site.posts %}
